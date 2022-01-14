@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>caixas de dialogo</title>
+
+<!--o codigo javascript vai aqui - usando o atributo "language" -->
+	<script language="JavaScript" type="text/javascript">
+		/*
+			abaixo o script de criação da caixa de dialogo
+			windo.alert
+		*/
+		window.confirm('deseja realmente excluir o arquivo');
+	</script>
+    
+    <script>
+	/*
+			abaixo o script de condicional de confirmação da opção escolhida
+			no script anterior
+	*/
+	//  a variável resultado recupera o resultado da escolha anterior
+	resultado=window.confirm('deseja realmente excluir esse item?');
+	if(resultado)
+	// caso o resultado tenha sido true ele emite o primeiro aviso
+	alert('Exclusão confirmada pelo usuário.');
+	// caso seja false ele passa ao else e envia o segundo aviso
+	else
+	alert('Exclusão cancelada pelo uruário.');
+	</script>
+</head>
+
+<body>
+	pagina teste de script!
+</body>
+</html>

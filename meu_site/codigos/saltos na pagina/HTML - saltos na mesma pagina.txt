@@ -1,0 +1,149 @@
+HTML - saltos na mesma pagina
+----------------------------
+para ir para outra parte da mesma pagina
+----------------------------
+
+link para a ancora:
+
+deve ser colocado no codigo da pagina no link de destino:
+<a href="#topo">Clique aqui para ir ao topo desta página</a></center>
+
+Alvo da Ancora:
+deve ser incerido no codigo da pagina no local que será o alvo do link:
+
+<a name="topo"></a>
+
+
+
+Nando Reis - (vocal e violão)
+
+José Fernando Gomes dos Reis, Nando Reis, nasceu no ano de 1963, na capital São Paulo. Iniciou sua carreira musical como baixista do grupo Titãs, em 1982. A partir daí, se destacou como um dos principais mentores, compositores e cantores da banda, ao lado de Arnaldo Antunes, que deixou a formação em 1992 para seguir carreira-solo, e Paulo Miklos, da formação original dos Titãs.
+
+Desde pequeno adorava tocar violão e compor músicas. Gravou pela primeira vez como cantor duas músicas de sua autoria: “Marvin” (parceria com Sérgio Britto) e “Querem Meu Sangue”. No Titãs é autor de muitas músicas de sucesso como “Os Cegos do Castelo”, “Pra Dizer Adeus” (com Tony Belloto), “Bichos Escrotos” (com Arnaldo Antunes e Sérgio Britto), entre outros. Fora dos Titãs teve músicas gravadas por Marisa Monte (“Diariamente”), Cássia Eller (“E.C.T.”), Cidade Negra (“Onde Você Mora”).
+
+Em 1995, lançou seu primeiro disco solo intitulado “12 de Janeiro”, que teve grande repercussão. Em 1999, destacou-se mais uma vez no cenário musical como produtor do disco de Cássia Eller, “Com Você… Meu Mundo Ficaria Completo”.
+
+No ano 2000 lançou seu segundo trabalho solo, intitulado “Para Quando o Arco-Íris Encontrar o Pote de Ouro”. O disco foi gravado em Seattle, com o produtor Jack Endino, em três semanas e conta com as participações especiais de Cássia Eller, Rogério Flausino e Peter Buck, guitarrista do R.E.M, que toca bandolim em duas músicas. Com este álbum, firmou-se como um dos principais compositores da música pop brasileira e um dos mais modernos arranjadores e letristas de seu segmento musical.
+
+Em 2002 veio seu terceiro disco, batizado de “Infernal… But There is Still a Full Moon Shining Over Jalalabad”. Nando pensou em fazer um disco ao vivo, e acabou só fazendo “meio ao vivo”, já que o álbum foi feito em estúdio, mas numa só tacada, em meros quatro dias de gravação. Disso tudo saiu um songbook autobiográfico, rústico e empolgado, reunindo canções que ele fez para terceiros e algumas já gravadas por ele mesmo.
+
+No mesmo ano, no dia 9 de setembro, foi anunciada a saída dele dos Titãs “por motivos pessoais” e para cuidar de sua carreira solo.
+
+Em 2003, oficialmente fora dos Titãs, o cantor lança “A letra A”. O disco é recheado de músicas que não caberiam em fase alguma da carreira da antiga banda de Nando. São canções longas, sem refrões definidos nem melodias instantaneamente grudentas e uma sonoridade enxuta, porém vigorosa, quase acústica. Com 12 faixas de sua autoria, ainda se pode ouvir sua versão de “Luz dos Olhos”, música dele, inicialmente gravada por Cássia Eller.
+
+Em 2004 lança o CD e DVD “MTV Ao Vivo – Nando Reis e Os Infernais”. O projeto traz músicas inéditas, covers e sucessos. O projeto reuniu clássicos dos Titãs (“Cegos do Castelo” e “Marvin”), além de músicas gravadas por Cássia Eller (“Relicário” e “All Star”) e J. Quest (“Do seu lado”) e três faixas inéditas. “Dentro do Mesmo Time” ganhou uma versão ao vivo, mas o grande destaque do repertório ficou para “Mantra”, que emplacou como sucesso radiofônico, junto com “Por Onde Andei”. No mesmo ano torna-se colunista do Estadão.
+
+“Sim e Não” é lançado em 2006 e traz mais 12 faixas de composições inéditas do artista. No ano seguinte grava o “Luau Mtv” e segue em turnê num formato metade acústico e metade elétrico até junho de 2009.
+
+Em maio do mesmo ano foi lançado o álbum “Drês” com shows de lançamento em São Vicente, Rio de Janeiro e São Paulo. O disco foi produzido por Nando Reis e Carlos Pontual e teve a participação especial de Ana Cañas na faixa “Pra Você Guardei o Amor”. A canção “Ainda Não Passou” foi indicada ao Grammy Latino de Melhor Canção Brasileira de 2009.
+
+No ano de 2010 gravou o CD/DVD ao vivo “Bailão do Ruivão que foi o ultimo disco lançado pela gravado Universal. E neste disco uma nova experiência: Pela primeira vez Nando Reis gravou músicas que não são de sua autoria com o objetivo de mostrar canções que cairam em seu gosto. Gravado na casa de show Carioca Club em São Paulo-SP nos dias 10 e 11 de agosto ele conta com as participações especiais de Joelma e Chimbinha (Banda Calipso) na “Chorando se foi”, Banda Zafenate (da qual seu filho Theodoro Reis faz parte) na “Could you be loved?” e Zezé de Camargo e Luciano nas faixas “Você Pediu e eu já vou daqui” e “Do seu Lado”.
+“Pela primeira vez vou gravar um disco com músicas que não são de minha autoria. E que, no entanto, são tão minhas porque fazem parte da estruturação de minha personalidade, do meu gosto e da minha particularíssima formação musical”, resume Nando Reis.
+
+Torcedor do São Paulo Futebol Clube, manteve uma coluna semanal sobre este tema no jornal O Estado de S. Paulo até 2010. Em 2009 lançou o livro infantil Meu Pequeno São-Paulino, pela editora Belas Letras, que fala sobre a paixão de um torcedor pelo São Paulo e as conquistas obtidas pelo time.
+
+Após 3 anos rodando o Brasil com a bem sucedida turnê do bailão, Nando lança em 2012 um CD autoral intitulado “Sei” contendo 15 músicas, sendo 13 delas inéditas! Participou deste CD a cantora Marisa Monte na faixa “Pra Quem Não Vem”. Foi gravado em Seattle, Washington, EUA, com a ajuda do produtor Jack Endino, que já produziu quatro álbuns dos Titãs, ex-banda de Nando.
+
+Atualmente ele roda o Brasil com a turnê de seu mais recente trabalho, “Sei”.
+
+Nando tem cinco filhos: Theodoro, Sophia, Sebastião, Zoé e Ismael.
+
+ 
+
+    Walter Villaça - (guitarra)
+
+ 
+
+Nascido em 20/03/1972, Walter Villaça é um famoso guitarrista brasileiro e já produziu/tocou com grandes nomes da música nacional.
+
+Nascido em 20/03/1972, Walter Villaça é um famoso guitarrista brasileiro e já produziu/tocou com grandes nomes da música nacional. Sua carreira iniciou-se em 1987 quando formou sua primeira banda chamada: Baseado Nisso. Mais tarde integrou várias outras, entre elas, “Tarântulas”, “Swing Suga” e “A Bruxa!” sendo esta ultima com participação do também infernal Felipe Cambraia.
+
+Em 1995 tocando com “A Bruxa!”, abriu um show do Barão Vermelho, no qual o guitarrista Sérgio Serra (Ultrage à Rigor), que estava presente, lhe convidou para participar de um teste com Cássia Eller, iniciando assim uma jornada de sete anos com a cantora. Durante esse período participou de diversos trabalhos com grandes shows de sucesso no Brasil e também no “Festival de Hamburgo”, na Alemanha.
+
+Integrando a banda da cantora, no ano de 1998 abriu o show do Bob Dylan e Rolling Stones, na sua turnê pelo Brasil. Em 2001 participou do “Rock in Rio III”. Em seguida gravou o disco “Acústico MTV” (último disco de Cássia Eller). Durante este período, também trabalhou em shows e discos de outros artista da MPB: Nando Reis, participando da gravação de seu disco em Seatlle/USA (‘Para quando o Arco Íris encontrar o pote de Ouro’), Gal Costa (disco ‘Tropicália 30 anos’), Guilherme Arantes (disco “Maioridade”), Pedro Quental (CD ‘Produto refinado’).
+
+Trabalhou também nas bandas: Lanlan e os Elaines (na qual participou também da produção do seu primeiro disco solo) e na banda A Bruxa! (CD e DVD ’Faça tudo que quiser fazer’).
+
+Participou do “PERCPAN” Festival Mundial de Percussão produzido por Gilberto Gil e Naná Vasconcelos.
+
+Villaça participou em 2000 do CD de Nando Reis “Para quando o arco-íris encontrar o pote de ouro” e hoje é o mais novo integrante da Banda “Os Infernais” tocando na turnê “Bailão do Ruivão”.
+
+ 
+
+    Felipe Cambraia - (baixo)
+
+Felipe Cambraia é o baixista da banda e está nela desde a formação dos Infernais para a gravação do álbum “Infernal”.
+
+É membro também da banda “A Bruxa!”, projeto paralelo, ao lado de Walter Villaça (guitarra), Fábio Allman (vocal) e João Vianna (bateria). Formada em 1989, lançou em 1999 o álbum “Faça o que quiser fazer” e terminou em 2004. Em 2009 houve um show no Rio de Janeiro comemorativo dos 10 anos do lançamento  do CD.
+
+Em 2010 a banda “A Bruxa!” gravou um DVD no Rio de Janeiro-RJ que contou com a presença especialíssima de Nando Reis! O DVD tem lançamento previsto para 2011…
+
+Outro projeto paralelo de Cambraia é a banda cover “Rollando Stones”, do qual também participa o Infernal Alex Veley. Esta banda se apresenta de vez em quando no Rio de Janeiro.
+
+“Se todo barco tem um remo, eu posso chamar o meu de Felipe Cambraia.” – Nando Reis
+
+ 
+
+    Alex Veley - (teclado)
+
+Alex Veley é um tecladista e cantor de rock e soul, americano  conhecido pro usar teclados como Órgão Hammond, Piano Elétrico Fender  Rhodes e Hohner.
+
+Foi membro da banda de neo-soul Maktub em Seattle nos anos 90 e  co-produziu o primeiro album da banda, “Subtle Ways” (2000) que ganhou o  prêmio de “Melhor Album R&amp;B” nos Northwest Music Awards do mesmo  ano. Mais tarde entrou em turnê e tocou com outros grupos de Seattle  como Tuatara, The Minus 5, e gravou com artistas solo como CeDell Davis e  Dave Matthews, tocando Órgão Hammond no álbum “Some Devil.” de  Matthews, que ganhou um Grammy.
+
+Em 2003 mudou-se para o Rio de Janeiro onde vive até hoje e toca com  artistas como Nando Reis e os Infernais, Erasmo Carlos, entre outros.
+
+Também em 2003 lançou um álbum solo chamado “Maconha Baiana” gravado no Rio e em Seattle.
+
+Trabalha também, paralelamente, na banda “Rollando Stones” que toca covers dos Rolling Stones e atualmente dedica-se a um novo projeto solo.
+
+ 
+
+ 
+
+    Diogo Gameiro - (bateria)
+
+Carioca e torcedor do Fluminense, o baterista Diogo Gameiro chegou aos infernais pra gravação do CD e DVD MTV ao Vivo em 2004. Se entrosou muito bem com a banda e com pouco tempo o infernal já conquistou os fãs pelo talento e pela simpatia.
+
+Além do trabalho com Nando Reis, Diogo tem um projeto paralelo com a banda Suricato, que é formada por três amigos de longa data, o Rodrigo Nogueira (Guitarra e voz), Lancaster Lopes(Baixo), que se encontraram para tocar covers e acabaram montando uma banda com repertório próprio misturando rock’n roll, funk e blues.
+
+Com a banda Suricato, lançou em 2012 seu primeiro CD intitulado “Para Sempre Primavera” e dividiu o palco com artistas como Leoni, Nando Reis e Lulu Santos!
+
+ 
+
+Gil Miranda
+
+ - (backing vocal)
+
+ 
+
+cantora, compositora e violonista, Gil Miranda escolheu a pluralidade de ritmos da música popular brasileira, para expressar-se artisticamente através do canto. Aperfeiçoou seus estudos de harmonia com Ian Guest, e exercitou seus conhecimentos de arranjo vocal sobretudo à frente do Grupo Ébano, grupo vocal com o qual atuou por dez anos, com disco produzido pelo pianista e arranjador Fernando Merlino.
+
+Expandiu seu trabalho de canto participando de turnês nacionais e internacionais como backing-vocal de artistas como Seu Jorge, Cidade Negra, Sandra de Sá, além de participações em gravações em estúdio nos discos de Gilberto Gil e Milton Nascimento, Maria Betânia, Simone, Alcione, Tributo a Tim Maia, Joanna, Margareth Menezes e outros, sob a direção de produtores musicais como Guto Graça Melo, Liminha, Paul Ralphes, Moog, Julinho Teixeira e Roberto Menescal. No trabalho solo, Gil Miranda mostra em suas composições referências acadêmicas e jazzísticas, erguidas sobre fortes raízes de brasilidade, notadamente marcadas em seu estilo de interpretação.
+
+E agora está agitando os shows ao lado de Nando Reis e os Infernais!!!
+
+ 
+
+    Hannah Lima - (backing vocal)
+
+Acre -Doce, Clara poesia negra. Assim diz Toni Garrido em texto que define muito bem um pouco da personalidade marcante e cheia de contrastes de Hannah Lima. Quem a conhece sabe, quem conhece seu trabalho sabe mais ainda !….
+
+Nascida em Carangola, M.G., veio para o Rio de Janeiro ainda criança com seus pais.
+
+Em 1990, aos 17/18 anos ela começa profissionalmente como backing vocal e dançarina do cantor Sidney Magal .
+
+Após 7 anos de carreira fazendo backing vocal para vários artistas brasileiros, Hannah por dois anos se dedicou ás gravações de seu primeiro cd solo produzindo -o de forma independente em 1999  intitulado Intuitiva , produzido pelo baixista e multi-instrumentista André Gomes e lançado pela extinta gravadora Abril Music em março de 2000.
+
+Em 2008 Hannah Lima e Banda fizeram os primeiros shows de pré lançamento do CD NEGUINHA …..
+
+Indicada ao premio Hutuz 2008 como melhor website Hannah e sua banda também foram atração, em 28 de novembro, no palco principal do Hutuz Rap Festival tocando pouco antes de Racionais Mcs e RZO ( Big Ben Bang Johnson.)….
+
+Em 13 de setembro Hannah Lima foi a única artista brasileira a se apresentar no FESTIVAL TUDO É JAZZ de Ouro Preto MG no palco do Largo do Cinema…..
+
+Entre Julho e agosto de 2008 fizeram algumas apresentações no NA MATA CAFÉ, SP, entre outras apresentações como no FESTIVAL JARDIM JANGADEIRO no CAPÃO REDONDO SP em dezembro esquentando as turbinas para o ano de 2009!….
+
+Hannah Lima é uma das indicadas ao premio Hutuz 2009 como melhor artista solo feminino da historia do Hip-hop Brasileiro!
+
+O atual CD de Hannah Lima se chama “NEGUINHA”(2009).
+
+E agora está agitando os shows ao lado de Nando Reis e os Infernais!!!

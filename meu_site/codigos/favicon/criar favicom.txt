@@ -1,0 +1,92 @@
+Criar o favicon
+
+Existem vários métodos :
+Um software de desenho (Gimp, pixia, inkscape...) (veja softwares de grafismo)
+Um software especializado (recomendo IconEdit32 ou IconWare)
+Um site web (que transforma uma imagem em favicon):
+http://www.html-kit.com/favicon/
+http://www.homehost.com.br/artigos/faviconico___logo_do_site_na_barra_de_endereco-034.html
+http://www.favicon.co.uk/
+http://www.favicon.hu/
+http://tools.dynamicdrive.com/favicon/
+http://favikon.com/
+
+Para a maioria dos navegadores
+
+Em primeiro lugar, criar uma imagem no formato png ou gif (formatos padrão a serem usados). 
+(também podemos usar formatos mais raros, veja o link no final da página). 
+Você também pode escolher dimensões diversas, 16x16 ou 32x32 (em pixels). 
+Para o Internet Explorer
+
+Como sempre, o IE não respeita os padrões e não utiliza as imagens com o formato correto. 
+Para este navegador, usar uma imagem ou formato ico (ou BMP rebatizado) (não-padrão, evitar !), e dimensões 16x16 pixels. 
+Para criar um favicon animado ou apenas um arquivo ICO
+
+Esta ferramenta te ajudará a criar, facilmente, um arquivo ICO , assim como animar seu favicon e desfilar o texto desejado. 
+
+Clique no botão Percorrer... e escolha uma imagem do seu computador. 
+
+Você também pode adicionar o texto que aparecerá depois do ícone, o que criará, automaticamente, um ícone animado. 
+
+Finalmente, também é possível gerar um ícone animado sem texto, marcando a casa Animated Favicon: é o favicon mesmo que vai parecer estar desfilando. 
+
+Valide e clique no botão Generate Favicon.ico 
+
+Você terá uma visão geral do seu favicon. 
+
+Agora, só precisa baixar o arquivo zipado no seu computador. 
+
+Depois de descompactar o arquivo baixado, copiar o arquivo favicon.ico no seu site. 
+
+Se você baixou um ícone animado, o arquivo ZIP também vai ter uma pasta extra, com o seu favicon animado ; copiar, então, animated_favion1.gif no seu site. 
+Por o favicon on-line
+
+Em seguida, você deverá por o favicon no seu site e indicar o caminho a partir da marcação link nas balizas do cabeçalho head". 
+Veja o exemplo com uma imagem com o formato png :
+<link rel="icon" type="image/png" href="/images/mafavicon.png" />
+
+Conforme o formato, é o atributo "tipo" que muda :
+Formato png : image/png
+Formato gif : image/gif
+Formato jpeg (extensão jpg ou jpeg) : imagem/jpeg
+
+
+Se você tem um ícone que não respeita os padrões, o atributo "rel" também muda :
+ <link rel = "shortcut icon" type = "image / x-icon" href = "/ images / icone_ie. ico "/> </ code> . Também é possível por um arquivo favicon.ico na raíz do site, para que alguns navegadores o usem automaticamente, mas isso não é padrão. 
+Se seu ícone for animado (GIF)
+
+
+
+Insira a seguinte baliza: 
+<code><link rel="icon" href="/images/animated_favicon1.gif" type="image/gif">
+
+Observações
+
+Se você usar um ícone com formato padrão e, um outro, com formato ICO, evite colocar este último na raíz : os navegadores só irão exibí-lo se não encontrarem a imagem PNG.
+
+Veja
+
+Explicação e método, em detalhes : 
+tutorial favicon 
+Favicon.ico - Logo do site na barra de endereço 
+Favicon 
+Annonces Google
+Write Android Apps In C#
+Use Mono for Android to make native apps in C# and .NET | Free Trial!
+mono-for-android.xamarin.com/
+A ver igualmente
+
+Icone site
+Webmaster : Dicas
+Colocar ícone no site
+Favicon - O ícone do seu site na barra de endereço » Fórum - Opiniões sobre as dicas
+AOL - Colocar um site na barra de tarefas » Dicas - AOL
+Windows 8 - A barra de tarefas e as janelas » Dicas - Windows 8
+O ícone da bateria desapareceu » Dicas - Hardware
+Windows 7 - A barra de tarefas e o menu Iniciar » Dicas - Windows 7
+Comunidade de assistência e de conselho.
+
+Fórum
+Windows fórum
+Software fórum
+Viroses / segurança fórum

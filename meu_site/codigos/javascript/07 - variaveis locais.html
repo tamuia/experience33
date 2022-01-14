@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>funcion - var local</title>
+
+<!--o codigo javascript vai aqui - usando o atributo "language" -->
+	<script language="JavaScript" type="text/javascript">
+
+			//ex variavel local
+			
+			function alerta ()
+			{
+				var valor= 'está aqui o exemplo de função';
+				alert (valor);
+			}
+	</script>
+</head>
+
+<body>
+	<body onload= "alerta"()>
+    <script language="JavaScript" type="text/javascript">
+	document.write(valor); //não vai resultar em nada pois foi evocada uma variavel local e deveria ser evocada uma global
+	</script>
+	pagina teste de script!
+</body>
+</html>

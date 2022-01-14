@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href="xonga.xsl"?>
+<lista>
+   <aluno>
+      <codigo>34</codigo>
+      <nome>Andrey Pedro Lefkum</nome>
+   </aluno>
+   <aluno>
+      <codigo>23</codigo>
+      <nome>Thais Castro</nome>
+   </aluno>
+</lista>
